@@ -1,1 +1,1 @@
-# MIT_Applied_DataScience, November 2023
+# MIT Applied Data Science Program: Leveraging AI for Effective Decision-Making
